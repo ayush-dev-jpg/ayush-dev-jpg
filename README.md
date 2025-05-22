@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am current studying
+Hi there! I'm Ayush — a passionate and curious Computer Science student at SRM Institute of Science and Technology. I love building clean, purposeful web apps and exploring the intersection of technology, creativity, and impact. From frontend JavaScript experiments to backend logic and AI-powered tools, I'm always eager to learn something new.
+
 
 
 ## 🌐 Socials:
